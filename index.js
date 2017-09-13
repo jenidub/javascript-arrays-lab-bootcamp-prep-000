@@ -25,4 +25,3 @@ function appendKitten(name) {
   var newarray = [...kittens, name]
   return newarray
 }
-
